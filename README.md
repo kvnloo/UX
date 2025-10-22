@@ -48,14 +48,14 @@ UX/
 ### Ghosts
 *Atmospheric ghostly scene*
 
-![Ghosts](background/7680×4320/Ghosts.jpg)
+![Ghosts](background/7680×4320/ghosts.jpg)
 
 ---
 
 ### Starlit Valley
 *A beautiful starlit valley by Mikael Gustafsson*
 
-![Starlit Valley](background/2560x1440/Wallpaper_Mikael_Gustafsson.png)
+![Starlit Valley](background/2560x1440/valley-river-sunset.png)
 
 ---
 
